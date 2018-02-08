@@ -1,0 +1,163 @@
+162
+Bulbasaur,40,leaf,water,fire,1,Vine Whip,20,20,
+Ivysaur,60,leaf,water,fire,2,Razor Leaf,30,30, ,Poisonpowder,30,20,wild storm
+Venusaur,120,leaf,water,fire,2,Frenzy Plant,40,100, ,Leaf Blade,30,30,
+Charmander,50,fire,leaf,water,1,Ember,20,30,disable
+Charmeleon,80,fire,leaf,water,2,Slash,30,30, ,Flamethrower,30,50,disable
+Charizard,120,fire,leaf,water,2,Fire Spin,40,50,wild storm,Blast Burn,40,100,
+Squirtle,40,water,fire,leaf,1,Bubble,10,10,
+Wartortle,70,water,fire,leaf,2,Withdraw,20,0,recharge,Bite,30,40,
+Blastoise,120,water,fire,leaf,2,Surf,30,40,wild storm,Hydro Cannon,40,100,
+Caterpie,40,leaf,water,fire,1,String Shot,10,10,stun
+Metapod,70,leaf,water,fire,2,Stiffen,20,0,disable,Stun Spore,20,20,stun
+Butterfree,70,leaf,water,fire,2,Whirlwind,20,20,stun,Mega Drain,40,40,heal
+Weedle,40,leaf,water,fire,1,Poison Sting,10,10,wild storm
+Kakuna,80,leaf,water,fire,2,Stiffen,20,0,disable,Poisonpowder,20,20,wild storm
+Beedrill,80,leaf,water,fire,2,Twinneedle,30,30,wild storm,Poison Sting,30,40,wild storm
+Pidgey,40,normal,fighting,electric,1,Whirlwind,20,10,stun
+Pidgeotto,60,normal,fighting,electric,1,Whirlwind,20,20,stun,Mirror Move,10,10,recharge
+Pidgeot,80,normal,fighting,electric,2,Wing Attack,20,20, ,Hurricane,30,30,wild storm
+Rattata,30,normal,ghost,fighting,1,Bite,10,20,
+Raticate,60,normal,ghost,fighting,2,Bite,10,20, ,Super Fang,30,30,wild storm
+Spearow,50,normal,fighting,electric,2,Peck,10,10, ,Mirror Move,10,10,recharge
+Fearow,70,normal,fighting,electric,2,Agility,30,20,stun,Drill Peck,40,40,
+Ekans,40,poison,leaf,psychic,2,Spit Poison,10,10,wild storm,Wrap,20,20,stun
+Arbok,60,poison,leaf,psychic,2,Terror Strike,10,10,stun,Poison Fang,30,20,wild storm
+Pikachu,40,electric,water,earth,2,Gnaw,10,10, ,Thunder Jolt,20,30,wild card
+Raichu,80,electric,water,earth,2,Agility,30,20,stun,Thunder,40,60,wild card
+Sandshrew,40,earth,electric,lwater,1,Sand-attack,10,10,disable
+Sandslash,70,earth,electric,water,2,Slash,20,20, ,Fury Swipes,20,20,wild storm
+Nidoran(f),60,poison,leaf,psychic,2,Fury Swipes,10,10,wild storm,Call For Family,20,10,stun
+Nidorina,70,poison,leaf,psychic,2,Supersonic,10,10,stun,Double Kick,30,30,wild storm
+Nidoqueen,90,poison,leaf,psychic,2,Boyfriends,20,20,wild storm,Mega Punch,40,50,
+Nidoran(m),40,poison,leaf,psychic,1,Horn Hazard,10,30,wild card
+Nidorino,60,poison,leaf,psychic,2,Double Kick,30,30,wild storm,Horn Drill,40,50,
+Nidoking,90,poison,leaf,psychic,2,Thrash,30,20,wild storm,Toxic,30,40,wild storm
+Clefairy,40,normal,ghost,fighting,1,Sing,10,10,stun
+Clefable,70,normal,ghost,fighting,1,Sing,10,10,stun
+Vulpix,50,fire,leaf,water,1,Confuse Ray,20,20,10
+Ninetales,80,fire,leaf,water,2,Lure,20,10,stun,Fire Blast,40,40,wild storm
+Jigglypuff,60,normal,ghost,fighting,2,Lullaby,10,10,stun,Pound,20,20,
+Wigglytuff,80,normal,ghost,fighting,2,Lullaby,10,10,stun,Do the Wave,30,10,wild storm
+Zubat,40,poison,leaf,psychic,2,Supersonic,20,0,disable,Leech Life,20,20,recharge
+Golbat,60,poison,leaf,psychic,2,Wing Attack,30,30, ,Leech Life,30,20,recharge
+Oddish,50,leaf,water,fire,2,Stun Spore,10,10,stun,Sprout,20,10,recharge
+Gloom,60,leaf,water,fire,2,Poisonpowder,10,10,wild storm,Foul Odor,20,20,disable
+Vileplume,80,leaf,water,fire,1,Petal Dance,30,40,wild storm
+Paras,40,leaf,water,fire,2,Scratch,20,20, ,Spore,20,10,stun
+Parasect,60,leaf,water,fire,2,Spore,20,10,stun,Slash,30,30,
+Venonat,40,poison,leaf,fire,2,Stun Spore,10,10,stun,Leech Life,20,10,heal
+Venomoth,70,poison,leaf,fire,1,Venom Powder,20,10,stun
+Diglett,30,earth,electric,leaf,2,Dig,10,10, ,Mud Slap,20,30,
+Dugtrio,70,earth,electric,leaf,2,Slash,30,40, ,Earthquake,40,70,disable
+Meowth,50,normal,ghost,fighting,1,Pay Day,20,10,recharge
+Persian,70,normal,ghost,fighting,2,Scratch,20,20, ,Pounce,30,30,stun
+Psyduck,50,water,leaf,electric,2,Headache,10,10,stun,Fury Swipes,10,10,wild storm
+Golduck,70,water,leaf,electric,2,Psyshock,10,10,stun,Hyper Beam,30,20,wild storm
+Mankey,30,fighting,normal,psychic,1,Scratch,10,10,
+Primeape,70,fighting,normal,psychic,2,Fury Swipes,20,20,wild storm,Tantrum,50,50,wild card
+Growlithe,60,fire,leaf,water,1,Flare,20,20,
+Arcanine,100,fire,leaf,water,2,Flamethrower,30,50,wild card,Take Down,40,80,stun
+Poliwag,40,water,fire,leaf,1,Water Gun,10,20,wild card
+Poliwhirl,60,water,fire,leaf,2,Amnesia,20,10,stun,Doubleslap,30,30,wild storm
+Poliwrath,90,water,fire,leaf,2,Water Gun,30,30,wild storm,Whirlpool,40,40,stun
+Abra,30,psychic,fighting,psychic,1,Psyshock,10,10,stun
+Kadabra,60,psychic,fighting,psychic,2,Recover,10,10,recharge,Super Psy,30,50,
+Alakazam,80,psychic,fighting,psychic,1,Confuse Ray,30,30,disable
+Machop,50,fighting,earth,psychic,1,Low Kick,10,20,
+Machoke,80,fighting,earth,psychic,2,Karate Chop,30,50,wild storm,Submission,40,60,wild card
+Machamp,100,fighting,earth,psychic,1,Seismic Toss,40,60,
+Bellsprout,40,leaf,water,fire,2,Vine Whip,10,10, ,Call for Family,10,10,stun
+Weepinbell,70,leaf,water,fire,2,Poisonpowder,10,10,wild storm,Razor Leaf,20,30,
+Victreebel,80,leaf,water,fire,2,Lure,10,10,stun,Acid,20,20,wild storm
+Tentacool,30,water,fire,leaf,1,Acid,10,10,
+Tentacruel,60,water,fire,leaf,2,Supersonic,10,10,stun,Jellyfish Sting,20,20,wild storm
+Geodude,50,earth,electric,water,1,Stone Barrage,20,10,wild storm
+Graveler,60,earth,electric,water,2,Harden,20,0,disable,Rock Throw,30,40,
+Golem,80,earth,electric,water,2,Avalanche,40,60, ,Selfdestruct,50,200,wild card
+Ponyta,40,fire,leaf,water,2,Smash Kick,20,20, ,Flame Tail,20,30,
+Rapidash,70,fire,leaf,water,2,Stomp,20,20,wild storm,Agility,30,30,disable
+Slowpoke,50,psychic,fighting,psychic,2,Spacing Out,10,0,disable,Scavenge,20,10,stun
+Slowbro,60,psychic,fighting,psychic,1,Psyshock,20,20,disable
+Magnemite,40,electric,water,earth,2,Thunder Wave,10,10,stun,Selfdestruct,30,60,wild card
+Magneton,60,electric,water,earth,2,Thunder Wave,30,30,stun,Selfdestruct,40,100,wild card
+Farfetch'd,50,normal,ghost,electric,2,Leek Slap,10,30,wild card,Pot Smash,30,30,
+Doduo,50,normal,ghost,electric,1,Fury Attack,10,10,wild storm
+Dodrio,70,normal,ghost,electric,1,Rage,30,20,wild storm
+Seel,60,water,fire,electric,1,Headbutt,10,10,
+Dewgong,80,water,fire,electric,2,Aurora Beam,30,50, ,Ice Beam,40,30,stun
+Grimer,50,poison,leaf,psychic,2,Nasty Goo,10,10,wild storm,Minimize,10,10,disable
+Muk,70,poison,leaf,psychic,1,Sludge,30,30,wild storm
+Shellder,30,water,fire,electric,2,Supersonic,10,10,stun,Hide in Shell,10,0,disable
+Cloyster,50,water,fire,electric,2,Clamp,20,30,stun,Spike Cannon,20,30,wild storm
+Gastly,30,ghost,fighting,psychic,2,Sleeping Gas,10,10,stun,Destiny Bond,20,10,disable
+Haunter,60,ghost,fighting,psychic,2,Hypnosis,10,10,stun,Dream Eater,20,50,stun
+Gengar,80,ghost,fighting,psychic,1,Dark Mind,30,30,disable
+Onix,90,earth,electric,leaf,2,Rock Throw,10,10, ,Harden,20,10,disable
+Drowzee,50,psychic,fighting,ghost,2,Pound,10,10, ,Confuse Ray,20,10,stun
+Hypno,90,psychic,fighting,ghost,2,Prophecy,10,10,stun,Dark Mind,30,30,disable
+Krabby,50,water,fire,leaf,2,Call for Family,10,10,disable,Iron Grip,20,20,
+Kingler,60,water,fire,leaf,2,Flail,10,10,wild storm,Crabhammer,30,40,
+Voltorb,40,electric,water,earth,1,Tackle,10,10,
+Electrode,80,electric,water,earth,1,Electrick Shock,30,50,
+Exeggcute,50,leaf,water,fire,2,Hypnosis,10,10,stun,Leech Seed,20,20,heal
+Exeggutor,80,leaf,water,fire,2,Teleport,10,10,stun,Big Eggsplosion,10,20,wild storm
+Cubone,40,earth,electric,leaf,2,Snivel,10,10,disable,Rage,20,10,wild storm
+Marowak,60,earth,electric,leaf,2,Bonemerang,20,30,wild storm,Call for Friend,30,10,disable
+Hitmonlee,60,fighting,ghost,psychic,2,Stretch Kick,20,10,disable,High Jump Kick,30,50,
+Hitmonchan,70,fighting,ghost,psychic,2,Jab,10,20, ,Special Punch,30,40,
+Lickitung,90,normal,psychic,fighting,2,Tongue Wrap,10,10,stun,Supersonic,20,20,stun
+Koffing,50,poison,leaf,psychic,1,Foul Gas,20,10,stun
+Weezing,60,poison,leaf,psychic,2,Smog,20,10,wild storm,Selfdestruct,30,70,wild storm
+Rhyhorn,70,earth,electric,leaf,2,Leer,10,0,disable,Horn Attack,30,30,
+Rhydon,100,earth,electric,leaf,2,Horn Attack,30,30, ,Mega Horn,40,120,
+Chansey,120,normal,ghost,fighting,2,Scrunch,20,10,heal,Double-edge,40,80,
+Tangela,50,leaf,water,fire,2,Bind,20,20,stun,Poisonpowder,30,20,wild storm
+Kangaskhan,90,normal,ghost,fighting,2,Fetch,10,10,stun,Comet Punch,40,20,wild storm
+Horsea,40,water,fire,electric,1,Smokescreen,10,0,disable
+Seadra,60,water,fire,electric,2,Water Gun,10,10,wild storm,Agility,20,0,stun
+Goldeen,40,water,fire,electric,1,Horn Attack,10,20,
+Seaking,70,water,fire,electric,2,Horn Attack,10,20, ,Waterfall,20,30,
+Staryu,40,water,fire,electric,1,Rapid Spin,10,20,
+Starmie,60,water,fire,electric,2,Recover,20,0,heal,Star Freeze,30,20,stun
+Mr. Mime,40,psychic,fighting,ghost,1,Meditate,20,10,wild storm
+Scyther,70,leaf,water,fire,2,X-Scissor,30,30,disable,Slash,30,30,
+Jynx,70,psychic,fighting,ghost,2,Doubleslap,10,10,wild storm,Meditate,30,20,wild storm
+Electabuzz,70,electric,water,earth,2,Thunderbolt,30,40,stun,Thunderpunch,20,30,wild storm
+Magmar,50,fire,leaf,water,2,Fire Punch,20,30, ,Flamethrower,30,50,
+Pinsir,60,leaf,water,fire,2,Irongrip,20,20,stun,Guillotine,40,100,
+Tauros,60,normal,ghost,fighting,2,Stomp,20,20, ,Rampage,30,30,wild storm
+Magikarp,30,water,fire,leaf,2,Tackle,10,10, ,Flail,10,10,wild storm
+Gyarados,100,water,fire,leaf,2,Dragon Rage,30,50, ,Bubblebeam,30,30,stun
+Lapras,80,water,fire,electric,2,Water Gun,10,10,wild storm,Ice Beam,20,30,stun
+Ditto,50,normal,ghost,fighting,1,Transform,10,10,stun
+Eevee,50,normal,ghost,fighting,2,Tail Wag,10,0,stun,Quick Attack,20,10,wild storm
+Vaporeon,80,water,fire,leaf,2,Quick Attack,20,10,wild storm,Water Gun,30,20,wild storm,
+Jolteon,70,electric,water,earth,2,Quick Attack,20,10,wild storm,Pin Missile,30,20,wild storm,
+Flareon,70,fire,leaf,water,2,Quick Attack,20,10,wild storm,Flamethrower,40,60,wild card
+Porygon,30,normal,ghost,fighting,2,Conversion 1,10,0,disable,Conversion 2,20,10,disable
+Omanyte,40,water,fire,leaf,1,Water Gun,10,10,wild storm
+Omastar,70,water,fire,leaf,2,Water Gun,20,20,wild storm,Spike Cannon,30,30,wild storm
+Kabuto,30,water,fire,leaf,1,Scratch,10,10,
+Kabutops,60,water,fire,leaf,2,Sharp Sickle,20,30, ,Absorb,40,40,heal
+Aerodactyl,60,earth,fire,water,1,Wing Attack,30,30,
+Snorlax,90,normal,ghost,fighting,1,Body Slam,40,30,stun
+Articuno,70,ice,leaf,fire,2,Sheer Cold,40,100,stun,Blizzard,30,50,
+Zapdos,90,electric,water,earth,2,Thunder,40,100,wild card,Thunderbolt,20,30,
+Moltres,70,fire,leaf,water,2,Wildfire,10,10, ,Dive Bomb,40,80,wild card
+Dratini,40,dragon,normal,ice,1,Pound,10,10,
+Dragonair,80,dragon,normal,ice,2,Slam,30,30,wild storm,Hyper Beam,40,50,disable
+Dragonite,100,dragon,normal,ice,2,Slam,20,40,wild storm,Outrage,40,80,wild storm
+Mewtwo,100,psychic,fighting,ghost,2,Psystrike,40,100, ,Barrier,20,10,disable
+Mew,50,psychic,fighting,ghost,2,Psywave,10,20,wild storm,Devolution Beam,40,50,
+Andrew,150,psychic,psychic,zhu,1,Fry Electronics,50,9999,
+Henry,150,psychic,psychic,zhu,1,Da Shiet,50,999,
+Ryan,150,psychic,psychic,zhu,1,Ur Bad,50,999,
+Syed,150,earth,earth,zhu,1,Fricc,50,999,
+Karl,150,psychic,psychic,compsci,2,YoYoYo,20,50,wild storm,I'm sorry bro ily <3,50,100,wild storm
+Adam,150,earth,earth,zhu,1,Crippling Depression,50,999,
+Scott,150,compsci,earth,zhu,1,CCC,50,999,
+Keith,150,god,zhu, ,1,Savage,50,999,
+Jerry,150,compsci,psychic,zhu,1,Good Puns,50,999,
+Henning,150,compsci,psychic,zhu,1,Alright You F*cks,50,999,
+Christina,150,anime,psychic, ,1,I Hate You,50,999,
